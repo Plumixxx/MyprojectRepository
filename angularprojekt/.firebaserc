@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "projekt-b37c4": {
+      "hosting": {
+        "kanban-fire": [
+          "projekt-b37c4"
+        ]
+      }
+    }
+  }
+}

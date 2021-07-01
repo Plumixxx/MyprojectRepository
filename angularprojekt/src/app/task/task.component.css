@@ -1,0 +1,10 @@
+:host {
+  display: block;
+
+}
+
+.item {
+  margin-bottom:15px;
+  cursor: pointer;
+
+}
